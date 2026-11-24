@@ -6,3 +6,4 @@ cdk.out/
 *.pem
 .DS_Store
 coverage/
+dados/
