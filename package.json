@@ -8,7 +8,9 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "dev": "tsx src/local/stdio.ts",
+    "inspector": "npx @modelcontextprotocol/inspector -e CONVERSATIONS_DIR=./examples npx tsx src/local/stdio.ts"
   },
   "keywords": [],
   "author": "",
