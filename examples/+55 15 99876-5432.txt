@@ -1,0 +1,4 @@
+[21/11/2026, 16:40:12] +55 15 99876-5432: Boa tarde, o app não abre o portão da garagem
+[21/11/2026, 16:52:30] Lucas: Boa tarde! Qual o seu apartamento?
+[21/11/2026, 16:53:05] +55 15 99876-5432: 42B
+[21/11/2026, 17:10:44] Lucas: Ajustei a permissão do seu usuário. Já deve funcionar

@@ -1,0 +1,8 @@
+20/11/2026 09:02 - As mensagens e as ligações são protegidas com a criptografia de ponta a ponta.
+20/11/2026 09:02 - Maria Souza: Bom dia! A facial da portaria não está liberando ninguém
+20/11/2026 09:05 - Lucas: Bom dia, Maria! Vou verificar agora
+20/11/2026 09:12 - Lucas: Reiniciei o equipamento. Pode testar?
+20/11/2026 09:15 - Maria Souza: Funcionou!
+Obrigada
+22/11/2026 14:30 - Maria Souza: Oi Lucas, preciso cadastrar 3 moradores novos
+22/11/2026 14:41 - Lucas: Claro! Me manda nome, bloco e apartamento de cada um, por favor
